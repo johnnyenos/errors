@@ -1,0 +1,11 @@
+Access to fetch at ' test-upload-bucket-enos.s3-website-us-east-1.amazonaws.com/:1   'https://i76hps7gg5ixfc3q6d2avwaweu0nboqt.lambda-url.us-east-1.on.aws/' from origin 'http://test-upload-bucket-enos.s3-website-us-east-1.amazonaws.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+(index):29 
+            
+            
+POST https://i76hps7gg5ixfc3q6d2avwaweu0nboqt.lambda-url.us-east-1.on.aws/ net::ERR_FAILED
+(anonymous) @ (index):29
+(index):29 
+            
+ Uncaught (in promise) TypeError: Failed to fetch
+    at HTMLFormElement.<anonymous> ((index):29:42)
+(anonymous) @ (index):29
